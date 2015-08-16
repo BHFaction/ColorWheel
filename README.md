@@ -10,3 +10,4 @@ A real color wheel =)
 * Temp Sensor MAX31726
 * Proximity Sensor FDC1004Q
 * IMU MPU9250
+* Battery Charger TP4056
